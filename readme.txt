@@ -2,7 +2,7 @@
 Contributors: strangerstudios
 Tags: admin bar, adminbar, dashboard, membership
 Requires at least: 3.1
-Tested up to: 3.5.1
+Tested up to: 4.8.1
 Stable tag: 1.0
 
 The WordPress admin bar will be hidden for all non-admin users.
