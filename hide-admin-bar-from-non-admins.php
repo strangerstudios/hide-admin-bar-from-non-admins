@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Hide Admin Bar From Non-admins
-Plugin URI: http://www.paidmembershipspro.com/wp/hide-admin-bar-from-non-admins/
+Plugin URI: https://www.paidmembershipspro.com/add-ons/hide-admin-bar-from-non-admins/
 Description: A tweak of the code by Yoast to hide the admin bar for non-admins only.
 Version: 1.0
 Author: Stranger Studios

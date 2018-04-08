@@ -2,7 +2,7 @@
 Contributors: strangerstudios
 Tags: admin bar, adminbar, dashboard, membership
 Requires at least: 3.1
-Tested up to: 4.9.4
+Tested up to: 4.9.5
 Stable tag: 1.0
 
 The WordPress admin bar will be hidden for all non-admin users.
@@ -22,5 +22,19 @@ This plugin has no settings and will not be updated often, so feel free to edit 
 
 1. Upload the `hide-admin-bar-from-non-admins` directory to the `/wp-content/plugins/` directory of your site.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
-1. Tweak the plugin code as needed. There are no settings, and this plugin will not be updated oftne.
+1. Tweak the plugin code as needed. There are no settings, and this plugin will not be updated often.
 
+== Frequently Asked Questions ==
+
+= I found a bug in the plugin. =
+
+Please post it in the issues section of GitHub and we'll fix it as soon as we can. Thanks for helping. https://github.com/strangerstudios/hide-admin-bar-from-non-admins/issues
+
+= I need help installing, configuring, or customizing the plugin. =
+
+Please visit our premium support site at https://www.paidmembershipspro.com for more documentation and our support forums.
+
+== Changelog ==
+
+= 1.0 =
+* Initial version of the plugin.
