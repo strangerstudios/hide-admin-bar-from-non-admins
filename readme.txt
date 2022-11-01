@@ -1,8 +1,8 @@
 === Hide Admin Bar from Non-Admins ===
 Contributors: strangerstudios
 Tags: admin bar, toolbar, adminbar, dashboard, membership
-Requires at least: 3.1
-Tested up to: 5.9.3
+Requires at least: 5.2
+Tested up to: 6.1
 Stable tag: 1.0.1
 
 Hides the WordPress toolbar (admin bar) for all non-admin users. Simple plugin with no settings to configure.
