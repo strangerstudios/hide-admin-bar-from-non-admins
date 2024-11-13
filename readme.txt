@@ -1,9 +1,9 @@
 === Hide Admin Bar from Non-Admins ===
 Contributors: strangerstudios
-Tags: admin bar, toolbar, adminbar, dashboard, membership
+Tags: admin bar, toolbar, adminbar, dashboard
 Requires at least: 5.2
-Tested up to: 6.4.1
-Stable tag: 1.0.1
+Tested up to: 6.7
+Stable tag: 1.0.2
 
 Hides the WordPress toolbar (admin bar) for all non-admin users. Simple plugin with no settings to configure.
 
@@ -36,6 +36,10 @@ This plugin is a tweak of the code by Yoast to hide the admin bar for non-admins
 1. That's it. There are no settings.
 
 == Changelog ==
+
+= 1.0.2 - 2024-11-13 =
+* ENHANCEMENT: Update tested up to WordPress 6.7.
+* ENHANCEMENT: Preparing plugin to be put up for adoption.
 
 = 1.0.1 - 2022-04-11 =
 * ENHANCEMENT: Added `habfna_show_admin_bar_roles` filter to show the admin toolbar for additional roles.
