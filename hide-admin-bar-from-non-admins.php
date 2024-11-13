@@ -1,17 +1,10 @@
 <?php
 /*
 Plugin Name: Hide Admin Bar From Non-Admins
-Plugin URI: https://www.paidmembershipspro.com/add-ons/hide-admin-bar-from-non-admins/
 Description: Hides the WordPress toolbar (admin bar) for all non-admin users.
 Version: 1.0.1
-Author: Stranger Studios
-Author URI: https://www.strangerstudios.com
+Author: Contributors
 */
-/*
-	Copyright 2013	Stranger Studios	(email : jason@strangerstudios.com)
-	Licensed under the GPLv2 license: http://www.gnu.org/licenses/gpl-2.0.html
-*/
-
 function habfna_show_admin_bar() {
 	$user = wp_get_current_user();
 	$habfna_show_admin_bar_roles = apply_filters( 'habfna_show_admin_bar_roles', array( 'administrator' ) );
